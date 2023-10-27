@@ -34,7 +34,7 @@ DISCIPLINES_MAP = {
     "Disciplina.7295": "Eixo de I",
     "Disciplina.7296": "Fund. Comput.",
     "Disciplina.7297": "Lógica de Prog.",
-    "Disciplina.7298": "Desenv. WEB I"
+    "Disciplina.7298": "Desenv. WEB I",
     "Disciplina.6441": "Geografia III",
     "Disciplina.6443": "Sociologia III",
     "Disciplina.6444": "Filosofia III",
