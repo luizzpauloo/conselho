@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import xlrd 
 
 st.title("Conselho de Classe dos Cursos Técnicos - IF Goiano campus Campos Belos - 2023")
 
