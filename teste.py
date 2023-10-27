@@ -1,5 +1,11 @@
 import streamlit as st
 import pandas as pd
+import subprocess
+
+try:
+    import xlrd
+except ImportError:
+    subprocess.check_call(["pip", "install", "xlrd"])
 
 
 st.title("Conselho de Classe dos Cursos Técnicos - IF Goiano campus Campos Belos - 2023.3")
