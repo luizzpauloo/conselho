@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
-import xlrd 
 
-st.title("Conselho de Classe dos Cursos Técnicos - IF Goiano campus Campos Belos - 2023")
+
+st.title("Conselho de Classe dos Cursos Técnicos - IF Goiano campus Campos Belos - 2023.3")
 
 DISCIPLINES_MAP = {
     "Disciplina.6432": "Química II",
