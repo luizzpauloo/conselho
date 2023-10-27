@@ -8,7 +8,7 @@ except ImportError:
     subprocess.check_call(["pip", "install", "xlrd"])
 
 
-st.title("Conselho de Classe dos Cursos Técnicos - IF Goiano campus Campos Belos - 2023.3")
+st.title("Conselho de Classe dos Cursos Técnicos - IF Goiano campus Campos Belos - 2023.1")
 
 DISCIPLINES_MAP = {
     "Disciplina.6432": "Química II",
